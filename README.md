@@ -1,3 +1,3 @@
 # ¡Hola!
 
-Soy Mario y estoy escribiendo código. 
+Estoy escribiendo código. 
