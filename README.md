@@ -1,3 +1,3 @@
 # ¡Hola!
 
-Estoy escribiendo código. 
+Escribiendo código. 
