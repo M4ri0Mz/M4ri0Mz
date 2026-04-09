@@ -9,51 +9,77 @@
 <h3 align="center">Stack tecnológico</h3>
 
 <div align="center">
-
-<a href="https://www.java.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" /></a>&nbsp;&nbsp;
-<a href="https://spring.io/projects/spring-boot"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring" /></a>&nbsp;&nbsp;
-<a href="https://www.mongodb.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" /></a>&nbsp;&nbsp;
-<a href="https://www.postgresql.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="SQL" /></a>&nbsp;&nbsp;
-<a href="https://www.docker.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" /></a>&nbsp;&nbsp;
-<a href="https://kubernetes.io"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes" /></a>&nbsp;&nbsp;
-<a href="https://www.jenkins.io"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40" alt="Jenkins" /></a>&nbsp;&nbsp;
-<a href="https://junit.org/junit5"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" width="40" height="40" alt="JUnit5" /></a>
-
+  <a href="https://www.java.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" /></a>&nbsp;&nbsp;
+  <a href="https://spring.io/projects/spring-boot"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring" /></a>&nbsp;&nbsp;
+  <a href="https://www.mongodb.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" /></a>&nbsp;&nbsp;
+  <a href="https://www.postgresql.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="SQL" /></a>&nbsp;&nbsp;
+  <a href="https://www.docker.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" /></a>&nbsp;&nbsp;
+  <a href="https://kubernetes.io"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes" /></a>&nbsp;&nbsp;
+  <a href="https://www.jenkins.io"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40" alt="Jenkins" /></a>&nbsp;&nbsp;
+  <a href="https://junit.org/junit5"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" width="40" height="40" alt="JUnit5" /></a>
 </div>
 
 ---
 
 <h3 align="center">Experiencia</h3>
 
-<div align="center">
-
-```
-  Java              ████████████████████  Uso diario — lenguaje principal
-  Spring Boot       ███████████████████░  Uso diario — APIs REST, microservicios
-  Spring Security   ████████████████░░░░  Frecuente — autenticación, JWT, OAuth2
-  Spring Cloud      ███████████████░░░░░  Frecuente — config server, gateway
-  MongoDB           ███████████████░░░░░  Frecuente — esquemas flexibles
-  SQL               ████████████████░░░░  Frecuente — queries, optimización
-  Docker            ████████████████░░░░  Frecuente — containerización
-  Kubernetes        █████████████░░░░░░░  Proyectos — deploy, scaling
-  Jenkins           █████████████░░░░░░░  Proyectos — CI/CD pipelines
-  JUnit 5           ████████████████░░░░  Frecuente — tests unitarios
-  Mockito           ████████████████░░░░  Frecuente — mocks
-```
-
-</div>
+<table align="center">
+  <tr>
+    <td align="right" width="160"><b>Java</b></td>
+    <td align="left">████████████████████ Uso diario — lenguaje principal</td>
+  </tr>
+  <tr>
+    <td align="right" width="160"><b>Spring Boot</b></td>
+    <td align="left">███████████████████░ Uso diario — APIs REST, microservicios</td>
+  </tr>
+  <tr>
+    <td align="right" width="160"><b>Spring Security</b></td>
+    <td align="left">████████████████░░░░ Frecuente — autenticación, JWT, OAuth2</td>
+  </tr>
+  <tr>
+    <td align="right" width="160"><b>Spring Cloud</b></td>
+    <td align="left">███████████████░░░░░ Frecuente — config server, gateway</td>
+  </tr>
+  <tr>
+    <td align="right" width="160"><b>MongoDB</b></td>
+    <td align="left">███████████████░░░░░ Frecuente — esquemas flexibles</td>
+  </tr>
+  <tr>
+    <td align="right" width="160"><b>SQL</b></td>
+    <td align="left">████████████████░░░░ Frecuente — queries, optimización</td>
+  </tr>
+  <tr>
+    <td align="right" width="160"><b>Docker</b></td>
+    <td align="left">████████████████░░░░ Frecuente — containerización</td>
+  </tr>
+  <tr>
+    <td align="right" width="160"><b>Kubernetes</b></td>
+    <td align="left">█████████████░░░░░░░ Proyectos — deploy, scaling</td>
+  </tr>
+  <tr>
+    <td align="right" width="160"><b>Jenkins</b></td>
+    <td align="left">█████████████░░░░░░░ Proyectos — CI/CD pipelines</td>
+  </tr>
+  <tr>
+    <td align="right" width="160"><b>JUnit 5</b></td>
+    <td align="left">████████████████░░░░ Frecuente — tests unitarios</td>
+  </tr>
+  <tr>
+    <td align="right" width="160"><b>Mockito</b></td>
+    <td align="left">████████████████░░░░ Frecuente — mocks</td>
+  </tr>
+</table>
 
 ---
 
 <div align="center">
-
-<a href="https://github.com/M4ri0Mz">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=M4ri0Mz&show_icons=true&theme=dark&bg_color=0d1117&title_color=1D9E75&icon_color=5DCAA5&text_color=9FE1CB&border_color=1D9E75&count_private=true" />
-</a>
-<a href="https://github.com/M4ri0Mz">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4ri0Mz&layout=compact&theme=dark&bg_color=0d1117&title_color=1D9E75&text_color=9FE1CB&border_color=1D9E75" />
-</a>
-
+  <a href="https://github.com/M4ri0Mz">
+    <img height="160em" src="https://github-readme-stats-fast.vercel.app/api?username=M4ri0Mz&show_icons=true&theme=dark&bg_color=0d1117&title_color=1D9E75&icon_color=5DCAA5&text_color=9FE1CB&border_color=1D9E75&count_private=true&locale=es" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/M4ri0Mz">
+    <img height="160em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=M4ri0Mz&layout=compact&theme=dark&bg_color=0d1117&title_color=1D9E75&text_color=9FE1CB&border_color=1D9E75&locale=es" />
+  </a>
 </div>
 
 ---
