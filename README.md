@@ -77,9 +77,10 @@
     <img height="160em" src="https://github-readme-stats-fast.vercel.app/api?username=M4ri0Mz&show_icons=true&theme=dark&bg_color=0d1117&title_color=1D9E75&icon_color=5DCAA5&text_color=9FE1CB&border_color=1D9E75&count_private=true&locale=es" />
   </a>
   &nbsp;
+  <!--
   <a href="https://github.com/M4ri0Mz">
     <img height="160em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=M4ri0Mz&layout=compact&theme=dark&bg_color=0d1117&title_color=1D9E75&text_color=9FE1CB&border_color=1D9E75&locale=es" />
-  </a>
+ # </a>-->
 </div>
 
 ---
